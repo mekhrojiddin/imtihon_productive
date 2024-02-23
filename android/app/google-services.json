@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429842870178",
+    "project_id": "productive-imtihon",
+    "storage_bucket": "productive-imtihon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429842870178:android:2bf6b805ea4a63bbfb8cfb",
+        "android_client_info": {
+          "package_name": "com.example.exam_productive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA3O5CcsB52YEbU82qGfX-aFWdnp0BV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429842870178:android:a7e3d44d028c50edfb8cfb",
+        "android_client_info": {
+          "package_name": "com.example.productive_imtihon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA3O5CcsB52YEbU82qGfX-aFWdnp0BV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
